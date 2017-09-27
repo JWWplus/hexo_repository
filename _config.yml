@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 一个土匪
 subtitle:
 description:
-author: John Doe
+author: jiangweiwei
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: www.jwwplus.cc
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -80,3 +80,12 @@ deploy:
   type: git
   repo: git@github.com:JWWplus/JWWplus.github.io.git
   branch: master
+
+disqus_shortname: jwwplus
+
+social:
+  GitHub: https://github.com/JWWplus
+  Twitter: https://twitter.com/PlusJvvvv
+  Weibo: your-weibo-url
+  DouBan: your-douban-url
+  ZhiHu: https://www.zhihu.com/people/jiang-wei-wei-84-24/activities
